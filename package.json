@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/comp426-2022-spring/a04-WidAlsa0/issues"
   },
-  "homepage": "https://github.com/comp426-2022-spring/a04-WidAlsa0#readme"
+  "homepage": "https://github.com/comp426-2022-spring/a04-WidAlsa0#readme",
+  "dependencies": {
+    "express": "^4.18.0",
+    "minimist": "^1.2.6",
+    "sqlite": "^4.1.1"
+  }
 }
