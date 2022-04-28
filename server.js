@@ -130,13 +130,6 @@ app.use(function(req, res){
 // If --help or -h, echo help text to STDOUT and exit
 
 
-
-
-
-
-
-// functions from previous assignment
-
 function coinFlip() {
   return (Math.floor(Math.random() * 2) == 0) ? 'heads' : 'tails';
 }
