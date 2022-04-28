@@ -12,7 +12,6 @@ const fs = require('fs')
 app.use(express.urlencoded({ extended: true}));
 app.use(express.json());
 
-
 const port = arguments.port || process.env.port || 5000
 
 // Start an app server
